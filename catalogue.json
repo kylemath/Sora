@@ -1,0 +1,11 @@
+{
+  "id": "SoraVideoGen",
+  "title": "SoraVideoGen",
+  "oneLiner": "Generate Sora videos using the API on local webpage",
+  "demoUrl": "https://github.com/kylemath/Sora",
+  "screenshot": "https://raw.githubusercontent.com/kylemath/Sora/main/screenshot.png",
+  "kind": "project",
+  "categories": ["AI", "videos", "generative"],
+  "tags": ["AI", "videos", "generative"],
+  "status": "published"
+}

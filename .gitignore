@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+videos/
+
+# Files added by git-init-repo script
+.env
+.vscode/settings.json
+videos/metadata.json
